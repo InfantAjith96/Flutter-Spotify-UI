@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd411ef1-22fe-4eaa-bd3e-1de2bbc7e348" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/icons/icons8-book-shelf-22 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/icons8-book-shelf-22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/icons8-home-24 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/icons8-home-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/icons8-search-24 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/icons8-search-24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/icon_button_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/icon_button_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/section_builder.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/section_builder.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/const.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/const.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/player_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/player_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/profile_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/profile_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/search_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/search_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;InfantAjith96&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nurshat13/Flutter-Spotify-UI-Clone.git&quot;,
+    &quot;accountId&quot;: &quot;d09d9762-ca18-445f-be5e-c0c735f0e67d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2vWo4bySXJnek4Zz9tnEppqa1Jv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "<unknown>",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/martin/ajith/Flutter-Spotify-UI-Clone/assets/icons",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/icons" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/lib/screens" />
+      <recent name="$PROJECT_DIR$/lib/components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd411ef1-22fe-4eaa-bd3e-1de2bbc7e348" name="Changes" comment="" />
+      <created>1744270001065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744270001065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+</project>
